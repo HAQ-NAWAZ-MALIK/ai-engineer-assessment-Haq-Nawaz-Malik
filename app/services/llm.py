@@ -1,3 +1,5 @@
+import asyncio
+
 import httpx
 
 from app.config import Settings
@@ -21,10 +23,18 @@ class LLMService:
         }
         headers = {"Authorization": f"Bearer {self.settings.nvidia_api_key}", "Accept": "application/json"}
         url = f"{self.settings.nvidia_base_url}/chat/completions"
-        if self.client:
-            response = await self.client.post(url, json=body, headers=headers, timeout=self.settings.request_timeout_seconds)
-        else:
-            async with httpx.AsyncClient() as client:
-                response = await client.post(url, json=body, headers=headers, timeout=self.settings.request_timeout_seconds)
-        response.raise_for_status()
-        return response.json()["choices"][0]["message"]["content"].strip()
+        for attempt in range(2):
+            try:
+                if self.client:
+                    response = await self.client.post(url, json=body, headers=headers, timeout=self.settings.request_timeout_seconds)
+                else:
+                    async with httpx.AsyncClient() as client:
+                        response = await client.post(url, json=body, headers=headers, timeout=self.settings.request_timeout_seconds)
+                response.raise_for_status()
+                return response.json()["choices"][0]["message"]["content"].strip()
+            except httpx.HTTPError:
+                if attempt:
+                    raise
+                await asyncio.sleep(0.5)
+
+        raise RuntimeError("NVIDIA NIM did not return a response")
