@@ -4,6 +4,14 @@ A source-aware FastAPI chatbot for space exploration and superhero questions. It
 <img width="1508" height="940" alt="image" src="https://github.com/user-attachments/assets/9b641ea6-266e-43e3-87f4-aa83be84fab8" />
 
 
+
+# Demo
+
+https://github.com/user-attachments/assets/16b36c1b-a324-49f3-99f3-cef6d39ae058
+
+
+
+
 ## Setup
 
 ```powershell
