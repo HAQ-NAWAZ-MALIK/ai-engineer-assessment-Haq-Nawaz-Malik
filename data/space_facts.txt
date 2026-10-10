@@ -1,0 +1,55 @@
+# Space Exploration Primer
+
+## Mars
+Mars is the fourth planet from the Sun. It is often called the Red Planet because iron minerals in its soil oxidize, or rust. Mars has two small moons, Phobos and Deimos. NASA's Perseverance rover landed in Jezero Crater in February 2021 to study ancient habitability and collect samples for a possible future return to Earth.
+
+## Moon
+Earth's Moon is its only natural satellite. Apollo 11 landed astronauts Neil Armstrong and Buzz Aldrin on the Moon on July 20, 1969. The Moon is tidally locked, so the same side generally faces Earth.
+
+## James Webb Space Telescope
+The James Webb Space Telescope is an infrared observatory launched on December 25, 2021. It operates near the Sun-Earth L2 point, about 1.5 million kilometres from Earth. Its large segmented mirror is 6.5 metres across.
+
+## International Space Station
+The International Space Station is a continuously inhabited research laboratory in low Earth orbit. The first module launched in 1998, and astronauts have lived aboard continuously since November 2000. It is a partnership involving the United States, Russia, Europe, Japan, and Canada.
+
+The station circles Earth about once every 90 minutes. Its laboratories support experiments in biology, materials science, fluid physics, combustion, Earth observation, and technology development. Studying how people and equipment behave in microgravity helps prepare for longer missions farther from Earth.
+
+## Solar System
+The Solar System contains the Sun, eight planets, dwarf planets, moons, asteroids, comets, and smaller bodies. Mercury, Venus, Earth, and Mars are rocky inner planets. Jupiter, Saturn, Uranus, and Neptune are giant outer planets.
+
+Jupiter is the largest planet and has the Great Red Spot, a long-lived storm. Saturn is known for rings made mostly of ice particles with some rock and dust. Uranus rotates with an extreme tilt, and Neptune is the most distant planet from the Sun. Pluto is classified as a dwarf planet in the Kuiper Belt beyond Neptune.
+
+## Asteroids, Comets, and Meteors
+Asteroids are rocky or metallic objects that orbit the Sun. Many are located in the main asteroid belt between Mars and Jupiter. Comets are icy objects that can develop a glowing coma and tail when they approach the Sun and their volatile materials warm up.
+
+A meteoroid is a small particle in space. A meteor is the streak of light it can make while passing through Earth's atmosphere. Material that survives to reach the ground is called a meteorite. Scientists track near-Earth objects to understand possible impact risks and the early history of the Solar System.
+
+## Human Spaceflight
+Human spaceflight began when Yuri Gagarin orbited Earth aboard Vostok 1 in 1961. The Apollo program achieved the first crewed lunar landing in 1969. Crewed spacecraft need life support, radiation protection, navigation, communications, exercise equipment, food, and safe return systems.
+
+Spacewalks, also called extravehicular activities, allow astronauts to work outside a spacecraft while protected by pressurized suits. Long-duration missions help researchers study how microgravity affects muscles, bones, sleep, vision, and other aspects of human health.
+
+## Rockets and Orbits
+Rockets produce thrust by expelling propellant at high speed in one direction, pushing the vehicle in the opposite direction. This applies Newton's third law of motion. Multistage rockets discard empty tanks and engines during ascent so the remaining vehicle can accelerate more efficiently.
+
+An orbit is a path followed by an object that is continuously falling toward a larger body while moving sideways fast enough to keep missing it. Low Earth orbit is widely used for crewed spacecraft and Earth-observing satellites. A geostationary satellite appears fixed above one point on the equator and is useful for communications and weather monitoring.
+
+## Hubble Space Telescope
+The Hubble Space Telescope is an optical and ultraviolet observatory launched in 1990. It orbits above most of Earth's atmosphere, avoiding atmospheric blurring that affects many ground-based observations. Hubble has observed galaxies, nebulae, planets, stars, and distant supernovae.
+
+Hubble was designed to be serviced by astronauts. Space shuttle missions repaired and upgraded the telescope, including the installation of new instruments. Hubble and the James Webb Space Telescope are complementary: Hubble is especially strong at visible and ultraviolet wavelengths, while Webb focuses on infrared light.
+
+## Exoplanets and the Search for Life
+An exoplanet is a planet orbiting a star other than the Sun. The transit method detects the small dip in a star's brightness when a planet passes in front of it. Another method measures tiny motions of a star caused by the gravity of an orbiting planet.
+
+The habitable zone is the range of distances around a star where liquid water could exist on a planet's surface under suitable atmospheric conditions. A planet in this zone is not necessarily inhabited. Scientists also consider its atmosphere, stellar activity, composition, and long-term climate stability.
+
+## Space Weather
+Space weather describes changing conditions in space, especially those driven by the Sun. Solar flares and coronal mass ejections can release radiation and charged particles. When these particles interact with Earth's magnetic field and atmosphere, they can create auroras.
+
+Strong space-weather events can affect radio communication, satellite operations, navigation systems, and power infrastructure. Researchers monitor the Sun and solar wind to assess conditions and reduce risks to technology and astronauts.
+
+## Planetary Protection
+Planetary protection aims to prevent harmful biological contamination during space exploration. Forward contamination means carrying Earth organisms to another world. Backward contamination means protecting Earth from potentially hazardous extraterrestrial material.
+
+Missions follow cleanliness, containment, and planning requirements based on their destination and scientific goals. These practices protect environments for future study and make possible evidence of life easier to interpret.
