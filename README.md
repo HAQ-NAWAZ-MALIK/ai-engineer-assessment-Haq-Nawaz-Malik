@@ -1,6 +1,8 @@
 # Applab Chatbot
 
 A source-aware FastAPI chatbot for space exploration and superhero questions. It searches a local Markdown knowledge base and the live Superhero API, then uses NVIDIA NIM (`z-ai/glm-5.3`) to write a grounded response with visible source references.
+<img width="1508" height="940" alt="image" src="https://github.com/user-attachments/assets/9b641ea6-266e-43e3-87f4-aa83be84fab8" />
+
 
 ## Setup
 
